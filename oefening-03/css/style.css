@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: grey;
+}
+
+tr:nth-child(odd) {
+    background-color: lightgrey;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    padding: 1.4rem 2rem;
+    text-align: center;
+}
