@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td,
+th {
+    min-width: 120px;
+}
+
+th {
+    height: 2.8rem;
+    background-color: black;
+    color: white;
+}
+
+td {
+    color: white;
+    height: 4rem;
+    padding: 0 1rem;
+}
+
+.ess {
+    background-color: rgb(79, 0, 128);
+
+}
+
+.db {
+    background-color: rgb(219, 51, 51);
+}
+
+.org {
+    background-color: rgb(46, 134, 46);
+}
+
+.webt {
+    background-color: rgb(69, 92, 184);
+}
+
+table {
+    border-collapse: collapse;
+}
