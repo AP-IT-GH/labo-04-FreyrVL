@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td,
+th {
+    min-width: 120px;
+    border: 2px solid black;
+
+}
+
+th {
+    height: 2.8rem;
+    background-color: black;
+    color: white;
+}
+
+td {
+    color: black;
+    height: 4rem;
+    padding: 0 1rem;
+
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
