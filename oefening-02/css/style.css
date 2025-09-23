@@ -4,6 +4,7 @@ body {
 
 ol {
     font-size: 1.2rem;
+    list-style-type: decimal;
 }
 
 ol li:nth-child(odd) {
